@@ -1,0 +1,8 @@
+{
+    "name": "root/contact",
+    "description": "This is demo package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
